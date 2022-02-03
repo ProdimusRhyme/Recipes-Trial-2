@@ -1,0 +1,11 @@
+This is my second go at this. I got my recipes all set during 
+the first trial but was having a hard time pushing the work
+to Git Hub. It seems that the work flow between the command line,
+the text editor, and github, needs to be relatively seemless. 
+So I figured I'd start over with that in mind. I can always just 
+copy and paste my code but I might just rebuild the entire thing 
+to get the practice! 
+
+a worthy note here...If I type in "git add ." in the command line...
+it will add all the files in the current directory, and it looks 
+like all subsequent directories, to the staging area. 
